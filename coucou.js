@@ -4,6 +4,7 @@ function coucou() {
 coucou();
 
 function coucouPerso(name) {
+    // eslint-disable-next-line no-console
   console.log(`Coucou, ${name}!`);
 }
 coucouPerso('Martin Boudras');

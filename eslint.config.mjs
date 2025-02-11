@@ -11,7 +11,8 @@ export default [
   {
     rules: {
       'no-alert': 'error',
-      'no-ternary': 'error',
+      'no-ternary': 'warn',
+      'no-console': 'warn',
     },
   },
 ];
