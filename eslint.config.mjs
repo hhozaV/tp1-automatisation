@@ -13,6 +13,8 @@ export default [
       'no-alert': 'error',
       'no-ternary': 'warn',
       'no-console': 'warn',
+      'no-warning-comments':
+        process.env.NODE_ENV === 'production' ? 'error' : 'off',
     },
   },
 ];
