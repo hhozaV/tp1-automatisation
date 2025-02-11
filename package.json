@@ -1,6 +1,6 @@
 {
   "name": "2425-r6.06-maintenance-applicative-tp1-boudras",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Un TP fait par : Martin Boudras",
   "main": "index.js",
   "scripts": {
