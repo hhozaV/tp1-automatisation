@@ -14,4 +14,3 @@ function coucouQuote() {
 }
 coucouQuote();
 
-const jeSersARien = 42;
